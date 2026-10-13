@@ -1,0 +1,2 @@
+ALTER TABLE users ADD COLUMN vip_buy_date TIMESTAMP
+

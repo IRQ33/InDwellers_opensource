@@ -1,0 +1,2 @@
+ALTER TABLE conversations ADD COLUMN id_person1 BIGINT NOT NULL;
+ALTER TABLE conversations ADD COLUMN id_person2 BIGINT NOT NULL;

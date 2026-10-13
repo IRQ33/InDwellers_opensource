@@ -1,0 +1,1 @@
+ALTER TABLE messages ADD COLUMN discord_message_id BIGINT
